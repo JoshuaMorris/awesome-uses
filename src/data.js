@@ -1015,7 +1015,11 @@ module.exports = [
     description: 'Software engineer, writer, and open-web enthusiast.',
     url: 'https://joshuamorris.info/uses/',
     country: '🇺🇸',
+    emoji: '🪬',
     computer: 'apple',
+    phone: 'iphone',
+    twitter: 'TheWoollyBully',
+    bluesky: 'joshuamorris.info',
     tags: ['React', 'Next.js', 'Tailwind CSS', 'Node.js', 'Zed', 'Vim'],
   },
   {
